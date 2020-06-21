@@ -11,7 +11,6 @@ namespace lab456.ViewModels
     {
         public int Id { get; set; }
         [Required]
-
         public string Place { get; set; }
 
         [Required]
@@ -19,14 +18,13 @@ namespace lab456.ViewModels
         public string Date { get; set; }
 
         [Required]
-        [FutureDate]
+        [ValidTime]
         public string Time { get; set; }
 
         [Required]
         public byte Category { get; set; }
 
         public IEnumerable<Category> Categories { get; set; }
-
 
         public string Heading { get; set; }
         public string Action

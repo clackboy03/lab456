@@ -119,3 +119,4 @@ C:\Users\ADMIN\source\repos\lab456\lab456\lab456\bin\System.Web.Http.xml
 C:\Users\ADMIN\source\repos\lab456\lab456\lab456\bin\System.Web.Http.WebHost.xml
 C:\Users\ADMIN\source\repos\lab456\lab456\lab456\obj\Debug\lab456.Migrations.AddFollowingsTable.resources
 C:\Users\ADMIN\source\repos\lab456\lab456\lab456\obj\Debug\lab456.Migrations.AddIsCanceledColumnToCourse.resources
+C:\Users\ADMIN\source\repos\lab456\lab456\lab456\obj\Debug\lab456.Migrations.AddIsCanceledColumnToCourse1.resources
